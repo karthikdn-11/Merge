@@ -1,1 +1,2 @@
-merging the files to the master branch
+merging the files to the master branch.
+Master to release
